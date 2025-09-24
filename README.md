@@ -172,11 +172,8 @@ Go            1 hr 20 mins   ██░░░░░░░░░░░░░░░
 Rust           13 mins       ▒░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
-## 🎮 Fun Zone
-
 <div align="center">
 
-### 🐍 Watch the Snake eat my contributions!
 <img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ### 🎵 Currently Jamming To
