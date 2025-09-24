@@ -215,5 +215,7 @@ mindmap
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by <strong>Auritra Paul Shaumik</strong> • Last updated: <strong>$(date +'%B %Y')</strong></sub>
+  <sub>Built with ❤️ by <strong>Auritra Paul Shaumik</strong> • Crafted with passion and attention to detail.
+  <p>Open to collaborations and new challenges!</p>
+  </sub>
 </div>
