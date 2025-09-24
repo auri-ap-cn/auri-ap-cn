@@ -129,13 +129,14 @@ Learning: WebAssembly
 
 <div align="center">
 
-<a href="https://github.com/auri-ap-cn/auri-ap-cn/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
+### 🚧 Coming Soon!
+I'm working on some amazing projects. Check back soon to see them here!
 
-<a href="https://github.com/auri-ap-cn/ai-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=ai-playground&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
+**🔄 Current Projects in Development:**
+- 🔧 DevOps Toolkit - Automated CI/CD pipelines
+- 🤖 AI Playground - Machine Learning experiments  
+- 🌐 Portfolio Website - Modern responsive design
+- ⚡ Quick Tools - Developer utilities
 
 </div>
 
