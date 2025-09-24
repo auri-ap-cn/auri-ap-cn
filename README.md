@@ -12,23 +12,53 @@
 
 ## 🚀 About Me
 
-```typescript
-const auritra = {
-  name: "Auritra Paul Shaumik",
-  role: "Full Stack Developer & Tech Innovator",
-  location: "🌍 Somewhere in the Cloud",
-  code: ["TypeScript", "Python", "JavaScript", "Go", "Rust"],
-  technologies: {
-    frontend: ["React", "Next.js", "Vue.js", "Svelte", "TailwindCSS"],
-    backend: ["Node.js", "Express", "FastAPI", "Django", "Go Fiber"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-    cloud: ["AWS", "Vercel", "Docker", "Kubernetes"],
-    ai: ["OpenAI", "LangChain", "TensorFlow", "PyTorch"]
-  },
-  currentFocus: "Building AI-powered applications that matter",
-  funFact: "I debug code in my dreams 🐛💭"
-};
+<div align="center">
+<table>
+<tr>
+<td>
+
+**🎯 Current Focus**
+```diff
++ Building AI-powered applications
++ Full Stack Development
++ DevOps & Cloud Architecture
 ```
+
+</td>
+<td>
+
+**💻 Languages**
+```yaml
+Primary: TypeScript, Python, JavaScript
+Exploring: Go, Rust
+Learning: WebAssembly
+```
+
+</td>
+<td>
+
+**🛠️ Technologies**
+```json
+{
+  "frontend": ["React", "Next.js", "Vue.js"],
+  "backend": ["Node.js", "FastAPI", "Express"],
+  "cloud": ["AWS", "Docker", "K8s"],
+  "databases": ["PostgreSQL", "MongoDB"]
+}
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### 💡 Fun Facts About Me
+
+🔥 I debug code in my dreams • ⚡ Coffee-driven developer • 🚀 Open source enthusiast • 🎮 Gaming in spare time
+
+</div>
 
 <div align="center">
 
