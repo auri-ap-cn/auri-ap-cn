@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Auritra Paul Shaumik hero">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#081229"/>
+      <stop offset="60%" stop-color="#0f2a3a"/>
+      <stop offset="100%" stop-color="#152b42"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7CFFCB"/>
+      <stop offset="50%" stop-color="#67D6FF"/>
+      <stop offset="100%" stop-color="#C27CFF"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style type="text/css"><![CDATA[
+      .title { font: 700 42px 'Fira Sans', 'Segoe UI', Roboto, sans-serif; fill: url(#neon); }
+      .subtitle { font: 400 18px 'Inter', Roboto, sans-serif; fill: #b8d8ff; opacity: 0.95; }
+      .code { font: 700 16px 'Fira Code', monospace; fill: #9be7ff; }
+    ]]></style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- animated dotted skyline -->
+  <g id="dots" transform="translate(40,260)" opacity="0.95">
+    <!-- repeated dots with subtle vertical motion -->
+    <g fill="#0ec9ff">
+      <circle cx="0"   cy="12" r="2">
+        <animate attributeName="cy" values="12;6;12" dur="3.6s" repeatCount="indefinite" begin="0s"/>
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="3.6s" repeatCount="indefinite" begin="0s"/>
+      </circle>
+      <circle cx="32"  cy="10" r="2">
+        <animate attributeName="cy" values="10;4;10" dur="4.2s" repeatCount="indefinite" begin="0.3s"/>
+      </circle>
+      <circle cx="64"  cy="8" r="2">
+        <animate attributeName="cy" values="8;14;8" dur="5s" repeatCount="indefinite" begin="0.5s"/>
+      </circle>
+      <circle cx="96"  cy="14" r="2">
+        <animate attributeName="cy" values="14;8;14" dur="4.1s" repeatCount="indefinite" begin="0.8s"/>
+      </circle>
+      <circle cx="128" cy="9" r="2">
+        <animate attributeName="cy" values="9;3;9" dur="3.9s" repeatCount="indefinite" begin="0.2s"/>
+      </circle>
+      <!-- copy groups across the width -->
+    </g>
+    <!-- replicate dots across the whole width with a transform -->
+    <use href="#dots" x="160" opacity="0.9"/>
+    <use href="#dots" x="320" opacity="0.8"/>
+    <use href="#dots" x="480" opacity="0.85"/>
+    <use href="#dots" x="640" opacity="0.7"/>
+  </g>
+
+  <!-- Floating code block -->
+  <g transform="translate(80,120)">
+    <rect x="0" y="0" rx="12" ry="12" width="520" height="220" fill="#071426" stroke="url(#neon)" stroke-opacity="0.07" stroke-width="1.5" filter="url(#glow)"/>
+    <g transform="translate(28,36)">
+      <text class="title" x="0" y="0">Auritra Paul Shaumik</text>
+      <text class="subtitle" x="0" y="36">Engineer · Builder · Innovator</text>
+
+      <g transform="translate(0,72)">
+        <rect x="-6" y="-12" width="420" height="90" rx="8" ry="8" fill="#021426" opacity="0.65"/>
+        <text class="code" x="8" y="12">const craft = (ideas) =&gt; {'{'}</text>
+        <text class="code" x="8" y="36">  return ideas.map(i =&gt; ship(i));</text>
+        <text class="code" x="8" y="60">{'}'}</text>
+
+        <!-- subtle shimmer across the code block -->
+        <rect x="-6" y="-12" width="420" height="90" rx="8" ry="8" fill="url(#neon)" opacity="0.06">
+          <animate attributeName="x" from="-420" to="420" dur="6s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+  </g>
+
+  <!-- Floating badges on the right -->
+  <g transform="translate(640,60)" opacity="0.98">
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" rx="10" ry="10" width="360" height="80" fill="#071428" stroke="#0ec9ff" stroke-opacity="0.06"/>
+      <text class="subtitle" x="18" y="28">Featured</text>
+      <text class="code" x="18" y="54">devops-toolkit · ai-playground · portfolio</text>
+      <!-- small moving underline -->
+      <rect x="18" y="60" width="64" height="3" rx="1.5" fill="url(#neon)">
+        <animate attributeName="x" values="18;120;18" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- bottom decorative waveform (animated) -->
+  <g transform="translate(0,360)">
+    <path id="wave" d="M0 40 C 200 0, 400 80, 800 40 C 1200 0, 1600 80, 2000 40 L2000 100 L0 100 Z"
+          fill="url(#neon)" opacity="0.06">
+      <animate attributeName="d"
+               dur="12s"
+               repeatCount="indefinite"
+               values="
+               M0 40 C 200 0, 400 80, 800 40 C 1200 0, 1600 80, 2000 40 L2000 100 L0 100 Z;
+               M0 30 C 200 60, 400 10, 800 30 C 1200 60, 1600 10, 2000 30 L2000 100 L0 100 Z;
+               M0 40 C 200 0, 400 80, 800 40 C 1200 0, 1600 80, 2000 40 L2000 100 L0 100 Z" />
+    </path>
+  </g>
+
+  <!-- tiny signature -->
+  <text x="34" y="402" font-size="12" fill="#9fbff4" opacity="0.65">crafted with ❤ — Auritra</text>
+</svg>
