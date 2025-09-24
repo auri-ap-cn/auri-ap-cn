@@ -1,16 +1,199 @@
-## Hi there 👋
+# 👋 Welcome to My Digital Universe
 
-<!--
-**auri-ap-cn/auri-ap-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./assets/hero.svg" alt="Auritra Paul Shaumik - Engineer, Builder, Innovator" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=auri-ap-cn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/auri-ap-cn?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```typescript
+const auritra = {
+  name: "Auritra Paul Shaumik",
+  role: "Full Stack Developer & Tech Innovator",
+  location: "🌍 Somewhere in the Cloud",
+  code: ["TypeScript", "Python", "JavaScript", "Go", "Rust"],
+  technologies: {
+    frontend: ["React", "Next.js", "Vue.js", "Svelte", "TailwindCSS"],
+    backend: ["Node.js", "Express", "FastAPI", "Django", "Go Fiber"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
+    cloud: ["AWS", "Vercel", "Docker", "Kubernetes"],
+    ai: ["OpenAI", "LangChain", "TensorFlow", "PyTorch"]
+  },
+  currentFocus: "Building AI-powered applications that matter",
+  funFact: "I debug code in my dreams 🐛💭"
+};
+```
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=auri-ap-cn&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=7c3aed&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auri-ap-cn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+## 🔥 Contribution Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=auri-ap-cn&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=auri-ap-cn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Cloud
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=auri-ap-cn&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/auri-ap-cn/devops-toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+</a>
+
+<a href="https://github.com/auri-ap-cn/ai-playground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=ai-playground&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+</a>
+
+</div>
+
+## 🌟 What I'm Up To
+
+```mermaid
+mindmap
+  root((Auritra))
+    🔥 Current Focus
+      AI Applications
+      Full Stack Development
+      DevOps Automation
+    🚀 Learning
+      Rust Programming
+      Machine Learning
+      Cloud Architecture
+    💡 Building
+      Open Source Tools
+      SaaS Products
+      Developer Utilities
+    🎯 Goals
+      Contribute to Major OSS
+      Launch Startup
+      Mentor Developers
+```
+
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   12 hrs 30 mins  ██████████████▓░░░░░░  70.2%
+Python        3 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░  21.1%
+Go            1 hr 20 mins   ██░░░░░░░░░░░░░░░░░░░   7.5%
+Rust           13 mins       ▒░░░░░░░░░░░░░░░░░░░░   1.2%
+```
+
+## 🎮 Fun Zone
+
+<div align="center">
+
+### 🐍 Watch the Snake eat my contributions!
+<img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
+
+### 🎵 Currently Jamming To
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&unique=true" />
+
+</div>
+
+## 💭 Dev Quotes That Keep Me Going
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building Scalable APIs with Go and PostgreSQL
+- ⚡ Advanced React Patterns Every Developer Should Know
+- 🚀 Deploying Full-Stack Apps with Docker and AWS
+- 🎯 TypeScript Best Practices for Large Applications
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://auritrapaul.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/auritra-paul-shaumik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/auri_ap_cn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auritra.dev@gmail.com)
+
+</div>
+
+## 💖 Support My Work
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/auritra)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/auritrapaul)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by <strong>Auritra Paul Shaumik</strong> • Last updated: <strong>$(date +'%B %Y')</strong></sub>
+</div>
