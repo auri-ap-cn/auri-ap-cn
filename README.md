@@ -163,15 +163,7 @@ mindmap
       Mentor Developers
 ```
 
-## 📊 Weekly Development Breakdown
-
-```text
-TypeScript   12 hrs 30 mins  ██████████████▓░░░░░░  70.2%
-Python        3 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░  21.1%
-Go            1 hr 20 mins   ██░░░░░░░░░░░░░░░░░░░   7.5%
-Rust           13 mins       ▒░░░░░░░░░░░░░░░░░░░░   1.2%
-```
-
+##
 <div align="center">
 
 <img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
