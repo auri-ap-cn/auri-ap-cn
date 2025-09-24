@@ -129,7 +129,7 @@ Learning: WebAssembly
 
 <div align="center">
 
-<a href="https://github.com/auri-ap-cn/devops-toolkit">
+<a href="https://github.com/auri-ap-cn/auri-ap-cn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
 </a>
 
