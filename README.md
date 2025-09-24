@@ -165,12 +165,7 @@ mindmap
 
 ##
 <div align="center">
-
 <img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
-
-### 🎵 Currently Jamming To
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&unique=true" />
-
 </div>
 
 ## 💭 Dev Quotes That Keep Me Going
