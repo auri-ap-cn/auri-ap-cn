@@ -215,7 +215,5 @@ mindmap
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by <strong>Auritra Paul Shaumik</strong> • Crafted with passion and attention to detail.
-  <p>Open to collaborations and new challenges!</p>
-  </sub>
+  <sub>Built with ❤️ by <strong>Auritra Paul Shaumik</strong> • Crafted with passion and attention to detail • Open to collaborations and new challenges</sub>
 </div>
