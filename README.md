@@ -168,7 +168,8 @@ mindmap
 <img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## <div align="center">
+## 
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
