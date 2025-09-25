@@ -153,9 +153,9 @@ Learning:  C++
 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
 
-  <!-- Project Card Example -->
+  <!-- Project Card: DevOps Toolkit -->
   <div class="bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300">
-    <img src="project1.png" alt="DevOps Toolkit" class="w-full h-48 object-cover">
+    <img src="/mnt/data/8725e11c-4084-4bfe-9f1c-eb0c9056eebc.png" alt="DevOps Toolkit" class="w-full h-48 object-cover">
     <div class="p-5">
       <h3 class="text-xl font-bold mb-2">🔧 DevOps Toolkit</h3>
       <p class="text-gray-300 mb-4">Automated CI/CD pipelines for faster deployments.</p>
@@ -171,7 +171,7 @@ Learning:  C++
     </div>
   </div>
 
-  <!-- Project Card Example -->
+  <!-- Project Card: AI Playground -->
   <div class="bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300">
     <img src="project2.png" alt="AI Playground" class="w-full h-48 object-cover">
     <div class="p-5">
@@ -189,7 +189,7 @@ Learning:  C++
     </div>
   </div>
 
-  <!-- Add more cards here for Portfolio Website, Quick Tools, etc. -->
+  <!-- Add more cards as needed -->
 
 </div>
 
