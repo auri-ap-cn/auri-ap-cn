@@ -216,7 +216,7 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#64CCC5', 'primaryTextColor': '#000000', 'primaryBorderColor': '#176B87', 'lineColor': '#04364A', 'secondaryColor': '#DAFFFB', 'tertiaryColor': '#B4B4B8', 'fontSize': '16px', 'fontFamily': 'Arial, sans-serif'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#64CCC5', 'primaryTextColor': '#000000', 'primaryBorderColor': '#176B87', 'lineColor': '#04364A', 'secondaryColor': '#DAFFFB', 'tertiaryColor': '#B4B4B8', 'quaternaryColor': '#64CCC5', 'c0': '#64CCC5', 'c1': '#176B87', 'c2': '#04364A', 'c3': '#DAFFFB', 'c4': '#B4B4B8', 'fontSize': '16px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#64CCC5', 'secondBkg': '#176B87', 'tertiaryBkg': '#04364A'}}}%%
 mindmap
   root)🚀 AURITRA(
     (🔥 CURRENT FOCUS)
