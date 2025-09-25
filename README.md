@@ -215,56 +215,30 @@ Learning:  C++
 
 ## 🌟 What I'm Up To
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🔥 Current Focus
-```yaml
-- AI Applications
-- Full Stack Development  
-- DevOps Automation
-- Cloud Architecture
+```mermaid
+mindmap
+  root((🚀 Auritra))
+    🔥 Current Focus
+      ⚡ AI Applications
+      💻 Full Stack Development
+      🛠️ DevOps Automation
+      ☁️ Cloud Architecture
+    🚀 Learning
+      🦀 Rust Programming
+      🤖 Machine Learning
+      📊 System Design
+      🔐 Security Practices
+    💡 Building
+      🌟 Open Source Tools
+      💼 SaaS Products
+      🔧 Developer Utilities
+      🎯 AI Integrations
+    🎯 Goals
+      🌐 Contribute to Major OSS
+      🚀 Launch Tech Startup
+      👥 Mentor Developers
+      🎤 Speaker at Conferences
 ```
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Learning
-```yaml
-- Rust Programming
-- Machine Learning
-- Advanced Kubernetes
-- System Design
-```
-
-</td>
-<td align="center" width="25%">
-
-### 💡 Building
-```yaml
-- Open Source Tools
-- SaaS Products
-- Developer Utilities
-- AI Integrations
-```
-
-</td>
-<td align="center" width="25%">
-
-### 🎯 Goals
-```yaml
-- Contribute to Major OSS
-- Launch Tech Startup
-- Mentor Developers
-- Speaker at Conferences
-```
-
-</td>
-</tr>
-</table>
-</div>
 
 ## Contributions
 <div align="center">
