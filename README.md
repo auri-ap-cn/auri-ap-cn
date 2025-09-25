@@ -216,27 +216,31 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-AURITRA
-├── CURRENT FOCUS
-│   ├── AI Applications
-│   ├── Full Stack Development
-│   ├── DevOps Automation
-│   └── Cloud Architecture
-├── LEARNING
-│   ├── Rust Programming
-│   ├── Machine Learning
-│   ├── System Design
-│   └── Security Practices
-├── BUILDING
-│   ├── Open Source Tools
-│   ├── SaaS Products
-│   ├── Developer Utilities
-│   └── AI Integrations
-└── GOALS
-    ├── OSS Contributions
-    ├── Tech Startup Launch
-    ├── Mentor Developers
-    └── Conference Speaking
+sankey-beta
+    AURITRA,CURRENT FOCUS,25
+    AURITRA,LEARNING,25
+    AURITRA,BUILDING,25
+    AURITRA,GOALS,25
+    
+    CURRENT FOCUS,AI Applications,6
+    CURRENT FOCUS,Full Stack Development,6
+    CURRENT FOCUS,DevOps Automation,6
+    CURRENT FOCUS,Cloud Architecture,7
+    
+    LEARNING,Rust Programming,6
+    LEARNING,Machine Learning,6
+    LEARNING,System Design,6
+    LEARNING,Security Practices,7
+    
+    BUILDING,Open Source Tools,6
+    BUILDING,SaaS Products,6
+    BUILDING,Developer Utilities,6
+    BUILDING,AI Integrations,7
+    
+    GOALS,OSS Contributions,6
+    GOALS,Tech Startup Launch,6
+    GOALS,Mentor Developers,6
+    GOALS,Conference Speaking,7
 ```
 
 ## Contributions
