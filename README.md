@@ -216,29 +216,29 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#B8E6E1', 'primaryTextColor': '#000000', 'primaryBorderColor': '#7DD3FC', 'lineColor': '#38BDF8', 'secondaryColor': '#E0F2FE', 'tertiaryColor': '#F0F9FF', 'quaternaryColor': '#B8E6E1', 'c0': '#E0F2FE', 'c1': '#B8E6E1', 'c2': '#7DD3FC', 'c3': '#38BDF8', 'c4': '#F0F9FF', 'fontSize': '16px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#E0F2FE', 'secondBkg': '#B8E6E1', 'tertiaryBkg': '#7DD3FC'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#E0F2FE', 'primaryTextColor': '#000000', 'primaryBorderColor': '#7DD3FC', 'lineColor': '#38BDF8', 'secondaryColor': '#DBEAFE', 'tertiaryColor': '#FEF3C7', 'quaternaryColor': '#D1FAE5', 'c0': '#E0F2FE', 'c1': '#DBEAFE', 'c2': '#FEF3C7', 'c3': '#D1FAE5', 'c4': '#E5E7EB', 'fontSize': '14px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#E0F2FE', 'secondBkg': '#DBEAFE', 'tertiaryBkg': '#FEF3C7'}}}%%
 mindmap
   root)AURITRA(
     (CURRENT FOCUS)
-      [AI Applications]
-      [Full Stack Development]
-      [DevOps Automation]
-      [Cloud Architecture]
+      [AI Apps]
+      [Full Stack Dev]
+      [DevOps Auto]
+      [Cloud Arch]
     (LEARNING)
-      [Rust Programming]
-      [Machine Learning]
+      [Rust Lang]
+      [ML & AI]
       [System Design]
-      [Security Practices]
+      [Security]
     (BUILDING)
-      [Open Source Tools]
+      [OSS Tools]
       [SaaS Products]
-      [Developer Utilities]
-      [AI Integrations]
+      [Dev Utils]
+      [AI Integration]
     (GOALS)
-      [Contribute to Major OSS]
-      [Launch Tech Startup]
-      [Mentor Developers]
-      [Speaker at Conferences]
+      [OSS Contrib]
+      [Tech Startup]
+      [Mentoring]
+      [Speaking]
 ```
 
 ## Contributions
