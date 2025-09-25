@@ -215,67 +215,41 @@ Learning:  C++
 
 ## 🌟 What I'm Up To
 
-<div align="center">
+```mermaid
+graph TD
+    A["🚀 Auritra"] --> B["🔥 Current Focus"]
+    A --> C["🚀 Learning"]
+    A --> D["💡 Building"]
+    A --> E["🎯 Goals"]
+    
+    B --> B1["⚡ AI Applications"]
+    B --> B2["💻 Full Stack Dev"]
+    B --> B3["🛠️ DevOps Automation"]
+    B --> B4["☁️ Cloud Architecture"]
+    
+    C --> C1["🦀 Rust Programming"]
+    C --> C2["🤖 Machine Learning"]
+    C --> C3["📊 System Design"]
+    C --> C4["🔐 Security Practices"]
+    
+    D --> D1["🌟 Open Source Tools"]
+    D --> D2["💼 SaaS Products"]
+    D --> D3["🔧 Developer Utilities"]
+    D --> D4["🎯 AI Integrations"]
+    
+    E --> E1["🌐 Contribute to Major OSS"]
+    E --> E2["🚀 Launch Tech Startup"]
+    E --> E3["👥 Mentor Developers"]
+    E --> E4["🎤 Speaker at Conferences"]
 
+    classDef rootNode fill:#7c3aed,stroke:#58a6ff,stroke-width:3px,color:#ffffff
+    classDef categoryNode fill:#1e293b,stroke:#7c3aed,stroke-width:2px,color:#58a6ff
+    classDef itemNode fill:#0f172a,stroke:#64748b,stroke-width:1px,color:#e2e8f0
+    
+    class A rootNode
+    class B,C,D,E categoryNode
+    class B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4 itemNode
 ```
-                                    🚀 Auritra
-                                        │
-                    ┌───────────────────┼───────────────────┐
-                    │                   │                   │
-                🔥 Current Focus    🚀 Learning        💡 Building        🎯 Goals
-                    │                   │                   │               │
-            ┌───────┼───────┐   ┌───────┼───────┐   ┌───────┼───────┐   ┌───┼───┐
-            │       │       │   │       │       │   │       │       │   │   │   │
-        ⚡ AI   💻 Full  🛠️ DevOps │    🦀 Rust 🤖 ML  📊 System │ 🌟 OSS 💼 SaaS 🔧 Dev │🌐 OSS 🚀 Launch
-       Apps    Stack   Auto   │    Lang    &AI   Design │ Tools Products Utils │Contrib Startup
-                              │                         │                     │
-                       ☁️ Cloud Arch            🔐 Security              🎯 AI Integration │👥 Mentor 🎤 Speaker
-```
-
-### 🎯 Current Projects & Learning Path
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-<h4>🔥 Current Focus</h4>
-<ul align="left">
-<li>⚡ AI-powered Applications</li>
-<li>💻 Full Stack Development</li>
-<li>🛠️ DevOps Automation</li>
-<li>☁️ Cloud Architecture</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>🚀 Learning</h4>
-<ul align="left">
-<li>🦀 Rust Programming</li>
-<li>🤖 Machine Learning & AI</li>
-<li>📊 System Design</li>
-<li>🔐 Security Practices</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>💡 Building</h4>
-<ul align="left">
-<li>🌟 Open Source Tools</li>
-<li>💼 SaaS Products</li>
-<li>🔧 Developer Utilities</li>
-<li>🎯 AI Integrations</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>🎯 Goals</h4>
-<ul align="left">
-<li>🌐 Contribute to Major OSS</li>
-<li>🚀 Launch Tech Startup</li>
-<li>👥 Mentor Developers</li>
-<li>🎤 Speaker at Conferences</li>
-</ul>
-</td>
-</tr>
-</table>
-
-</div>
 
 ## Contributions
 <div align="center">
