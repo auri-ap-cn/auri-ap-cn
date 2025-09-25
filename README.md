@@ -31,12 +31,12 @@
 
 **💻 Languages**
 ```yaml
-Primary: Python,                  Java
-         (AI/ML, Data Science)   (Backend, OOP)
+Primary:   Python,                   Java
+           (AI/ML, Data Science)     (Backend, OOP)
 Exploring: Go,                       Rust
            (Cloud & Microservices)   (High-performance systems)
-Learning: C++
-          (AI frameworks, performance optimization)
+Learning:  C++
+           (AI frameworks, performance optimization)
 
 ```
 
