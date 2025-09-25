@@ -216,29 +216,29 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#64CCC5', 'primaryTextColor': '#000000', 'primaryBorderColor': '#176B87', 'lineColor': '#04364A', 'secondaryColor': '#DAFFFB', 'tertiaryColor': '#B4B4B8', 'quaternaryColor': '#64CCC5', 'c0': '#64CCC5', 'c1': '#176B87', 'c2': '#04364A', 'c3': '#DAFFFB', 'c4': '#B4B4B8', 'fontSize': '16px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#64CCC5', 'secondBkg': '#176B87', 'tertiaryBkg': '#04364A'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#B8E6E1', 'primaryTextColor': '#000000', 'primaryBorderColor': '#7DD3FC', 'lineColor': '#38BDF8', 'secondaryColor': '#E0F2FE', 'tertiaryColor': '#F0F9FF', 'quaternaryColor': '#B8E6E1', 'c0': '#E0F2FE', 'c1': '#B8E6E1', 'c2': '#7DD3FC', 'c3': '#38BDF8', 'c4': '#F0F9FF', 'fontSize': '16px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#E0F2FE', 'secondBkg': '#B8E6E1', 'tertiaryBkg': '#7DD3FC'}}}%%
 mindmap
-  root)🚀 AURITRA(
-    (🔥 CURRENT FOCUS)
-      [⚡ AI Applications]
-      [💻 Full Stack Development]
-      [🛠️ DevOps Automation]
-      [☁️ Cloud Architecture]
-    (🚀 LEARNING)
-      [🦀 Rust Programming]
-      [🤖 Machine Learning]
-      [📊 System Design]
-      [🔐 Security Practices]
-    (💡 BUILDING)
-      [🌟 Open Source Tools]
-      [💼 SaaS Products]
-      [🔧 Developer Utilities]
-      [🎯 AI Integrations]
-    (🎯 GOALS)
-      [🌐 Contribute to Major OSS]
-      [🚀 Launch Tech Startup]
-      [👥 Mentor Developers]
-      [🎤 Speaker at Conferences]
+  root)AURITRA(
+    (CURRENT FOCUS)
+      [AI Applications]
+      [Full Stack Development]
+      [DevOps Automation]
+      [Cloud Architecture]
+    (LEARNING)
+      [Rust Programming]
+      [Machine Learning]
+      [System Design]
+      [Security Practices]
+    (BUILDING)
+      [Open Source Tools]
+      [SaaS Products]
+      [Developer Utilities]
+      [AI Integrations]
+    (GOALS)
+      [Contribute to Major OSS]
+      [Launch Tech Startup]
+      [Mentor Developers]
+      [Speaker at Conferences]
 ```
 
 ## Contributions
