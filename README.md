@@ -29,9 +29,9 @@
 
 **💻 Languages**
 ```yaml
-Primary: TypeScript, Python, JavaScript
+Primary: Python, Java
 Exploring: Go, Rust
-Learning: WebAssembly
+Learning: C++
 ```
 
 </td>
@@ -40,10 +40,13 @@ Learning: WebAssembly
 **🛠️ Technologies**
 ```json
 {
-  "frontend": ["React", "Next.js", "Vue.js"],
+  "frontend": ["React", "Next.js"],
   "backend": ["Node.js", "FastAPI", "Express"],
-  "cloud": ["AWS", "Docker", "K8s"],
-  "databases": ["PostgreSQL", "MongoDB"]
+  "cloud": ["AWS", "Docker", "Kubernetes"],
+  "databases": ["PostgreSQL", "MongoDB", "Supabase"],
+  "ai_ml": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "Hugging Face Transformers"],
+  "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  "tools": ["Git", "Linux", "Jupyter", "VS Code"]
 }
 ```
 
