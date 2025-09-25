@@ -149,36 +149,69 @@ Learning:  C++
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=auri-ap-cn&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
-## 🎯 Featured Projects
 <div align="center">
-  <table cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/auri-ap-cn/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-        </a>
-      </td>
-        <td width="50%" align="center">
-        <a href="https://github.com/auri-ap-cn/DevOps-Toolkit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=DevOps-Toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/auri-ap-cn/auritra">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=auritra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/auri-ap-cn/YOUR_FOURTH_REPO_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=YOUR_FOURTH_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
+## 🎯 Featured Projects
+
+<table>
+<tbody>
+<tr>
+<td align="center" width="33%">
+<div>
+<h3>💼 Portfolio</h3>
+<p><strong>Personal portfolio website showcasing projects, skills, and professional experience</strong></p>
+<a href="https://github.com/auri-ap-cn/portfolio">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/github/stars/auri-ap-cn/portfolio?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/auri-ap-cn/portfolio?style=social" alt="Forks">
+<br>
+<img src="https://img.shields.io/github/languages/top/auri-ap-cn/portfolio" alt="Language">
+<img src="https://img.shields.io/github/last-commit/auri-ap-cn/portfolio" alt="Last Commit">
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+<h3>🛠️ DevOps Toolkit</h3>
+<p><strong>Comprehensive collection of DevOps tools and automation scripts for streamlined development workflows</strong></p>
+<a href="https://github.com/auri-ap-cn/DevOps-Toolkit">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/github/stars/auri-ap-cn/DevOps-Toolkit?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/auri-ap-cn/DevOps-Toolkit?style=social" alt="Forks">
+<br>
+<img src="https://img.shields.io/github/languages/top/auri-ap-cn/DevOps-Toolkit" alt="Language">
+<img src="https://img.shields.io/github/last-commit/auri-ap-cn/DevOps-Toolkit" alt="Last Commit">
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+<h3>⚡ Auritra</h3>
+<p><strong>Advanced personal project showcasing modern development practices and innovative solutions</strong></p>
+<a href="https://github.com/auri-ap-cn/auritra">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/github/stars/auri-ap-cn/auritra?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/auri-ap-cn/auritra?style=social" alt="Forks">
+<br>
+<img src="https://img.shields.io/github/languages/top/auri-ap-cn/auritra" alt="Language">
+<img src="https://img.shields.io/github/last-commit/auri-ap-cn/auritra" alt="Last Commit">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="center">
+<a href="https://github.com/auri-ap-cn?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</div>
 
 ## 🌟 What I'm Up To
 
