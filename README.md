@@ -163,7 +163,7 @@ mindmap
       Mentor Developers
 ```
 
-##
+## Contributions
 <div align="center">
 <img src="https://github.com/auri-ap-cn/auri-ap-cn/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
