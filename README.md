@@ -19,9 +19,11 @@
 
 **🎯 Current Focus**
 ```diff
-+ Building AI-powered applications
-+ Full Stack Development
-+ DevOps & Cloud Architecture
++ Developing AI-powered applications
++ Enhancing Full-Stack Development with modern frameworks
++ Designing Cloud & MLOps pipelines for scalable AI deployment
++ Applying Data Science & Analytics for real-world insights
++ Exploring Responsible & Ethical AI
 ```
 
 </td>
@@ -29,9 +31,13 @@
 
 **💻 Languages**
 ```yaml
-Primary: Python, Java
-Exploring: Go, Rust
-Learning: C++
+**Primary: Python**
+(AI/ML, Data Science), **Java** (Backend, OOP)
+**Exploring: Go**
+(Cloud & Microservices), **Rust** (High-performance systems)
+**Learning: C++**
+(AI frameworks, performance optimization)
+
 ```
 
 </td>
