@@ -216,29 +216,45 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'background': '#ffffff', 'primaryColor': '#E0F2FE', 'primaryTextColor': '#000000', 'primaryBorderColor': '#7DD3FC', 'lineColor': '#38BDF8', 'secondaryColor': '#DBEAFE', 'tertiaryColor': '#FEF3C7', 'quaternaryColor': '#D1FAE5', 'c0': '#E0F2FE', 'c1': '#DBEAFE', 'c2': '#FEF3C7', 'c3': '#D1FAE5', 'c4': '#E5E7EB', 'fontSize': '14px', 'fontFamily': 'Arial, sans-serif', 'mainBkg': '#E0F2FE', 'secondBkg': '#DBEAFE', 'tertiaryBkg': '#FEF3C7'}}}%%
-mindmap
-  root)AURITRA(
-    (CURRENT FOCUS)
-      [AI Apps]
-      [Full Stack Dev]
-      [DevOps Auto]
-      [Cloud Arch]
-    (LEARNING)
-      [Rust Lang]
-      [ML & AI]
-      [System Design]
-      [Security]
-    (BUILDING)
-      [OSS Tools]
-      [SaaS Products]
-      [Dev Utils]
-      [AI Integration]
-    (GOALS)
-      [OSS Contrib]
-      [Tech Startup]
-      [Mentoring]
-      [Speaking]
+flowchart TD
+    A[AURITRA<br/>🚀] --> B[CURRENT FOCUS<br/>🔥]
+    A --> C[LEARNING<br/>📚]
+    A --> D[BUILDING<br/>💡]
+    A --> E[GOALS<br/>🎯]
+    
+    B --> B1[AI Applications]
+    B --> B2[Full Stack<br/>Development]
+    B --> B3[DevOps<br/>Automation]
+    B --> B4[Cloud<br/>Architecture]
+    
+    C --> C1[Rust<br/>Programming]
+    C --> C2[Machine<br/>Learning]
+    C --> C3[System<br/>Design]
+    C --> C4[Security<br/>Practices]
+    
+    D --> D1[Open Source<br/>Tools]
+    D --> D2[SaaS<br/>Products]
+    D --> D3[Developer<br/>Utilities]
+    D --> D4[AI<br/>Integrations]
+    
+    E --> E1[OSS<br/>Contributions]
+    E --> E2[Tech<br/>Startup]
+    E --> E3[Mentor<br/>Developers]
+    E --> E4[Conference<br/>Speaking]
+
+    classDef rootStyle fill:#E0F2FE,stroke:#0369A1,stroke-width:3px,color:#000
+    classDef categoryStyle fill:#DBEAFE,stroke:#2563EB,stroke-width:2px,color:#000
+    classDef itemStyle1 fill:#FEF3C7,stroke:#D97706,stroke-width:1px,color:#000
+    classDef itemStyle2 fill:#D1FAE5,stroke:#059669,stroke-width:1px,color:#000
+    classDef itemStyle3 fill:#FCE7F3,stroke:#DB2777,stroke-width:1px,color:#000
+    classDef itemStyle4 fill:#F3E8FF,stroke:#9333EA,stroke-width:1px,color:#000
+    
+    class A rootStyle
+    class B,C,D,E categoryStyle
+    class B1,B2,B3,B4 itemStyle1
+    class C1,C2,C3,C4 itemStyle2
+    class D1,D2,D3,D4 itemStyle3
+    class E1,E2,E3,E4 itemStyle4
 ```
 
 ## Contributions
