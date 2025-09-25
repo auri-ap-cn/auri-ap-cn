@@ -151,28 +151,43 @@ Learning:  C++
 
 ## 🎯 Featured Projects
 <div align="center">
-  <table cellpadding="0" cellspacing="0" border="0">
+  <table cellpadding="0" cellspacing="15" border="0">
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="https://github.com/auri-ap-cn/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
         </a>
+        <br><br>
+        <div align="center"><sub><i>Personal portfolio website showcasing projects, skills, and professional experience</i></sub></div>
       </td>
-        <td width="50%" align="center">
+      <td align="center">
         <a href="https://github.com/auri-ap-cn/DevOps-Toolkit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=DevOps-Toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=DevOps-Toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
         </a>
+        <br><br>
+        <div align="center"><sub><i>Comprehensive collection of DevOps tools and automation scripts for streamlined development workflows</i></sub></div>
       </td>
-      </td>
-        <td width="50%" align="center">
+    </tr>
+    <!-- Add your third project here -->
+    <tr>
+      <td align="center">
         <a href="https://github.com/auri-ap-cn/auritra">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=auritra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=auritra&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
         </a>
+        <br><br>
+        <div align="center"><sub><i>Your third project description goes here</i></sub></div>
+      </td>
+      <td align="center">
+        <!-- Optional: Add fourth project here or leave empty 
+        <a href="https://github.com/auri-ap-cn/YOUR_FOURTH_REPO_NAME">
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=YOUR_FOURTH_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+        </a>
+        <br><br>
+        <div align="center"><sub><i>Your fourth project description goes here</i></sub></div>
       </td>
     </tr>
   </table>
-</div>
-
+</div>-->
 
 ## 🌟 What I'm Up To
 
