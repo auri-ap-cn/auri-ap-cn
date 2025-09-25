@@ -151,18 +151,48 @@ Learning:  C++
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
 
-### 🚧 Coming Soon!
-I'm working on some amazing projects. Check back soon to see them here!
+  <!-- Project Card Example -->
+  <div class="bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300">
+    <img src="project1.png" alt="DevOps Toolkit" class="w-full h-48 object-cover">
+    <div class="p-5">
+      <h3 class="text-xl font-bold mb-2">🔧 DevOps Toolkit</h3>
+      <p class="text-gray-300 mb-4">Automated CI/CD pipelines for faster deployments.</p>
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="bg-blue-600 text-white px-2 py-1 rounded-full text-sm">Python</span>
+        <span class="bg-green-600 text-white px-2 py-1 rounded-full text-sm">Docker</span>
+        <span class="bg-purple-600 text-white px-2 py-1 rounded-full text-sm">CI/CD</span>
+      </div>
+      <div class="flex gap-2">
+        <a href="https://live-demo-link.com" target="_blank" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">Live Demo</a>
+        <a href="https://github.com/username/devops-toolkit" target="_blank" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition">View Code</a>
+      </div>
+    </div>
+  </div>
 
-**🔄 Current Projects in Development:**
-- 🔧 DevOps Toolkit - Automated CI/CD pipelines
-- 🤖 AI Playground - Machine Learning experiments  
-- 🌐 Portfolio Website - Modern responsive design
-- ⚡ Quick Tools - Developer utilities
+  <!-- Project Card Example -->
+  <div class="bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300">
+    <img src="project2.png" alt="AI Playground" class="w-full h-48 object-cover">
+    <div class="p-5">
+      <h3 class="text-xl font-bold mb-2">🤖 AI Playground</h3>
+      <p class="text-gray-300 mb-4">Machine Learning experiments with LLMs and NLP models.</p>
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="bg-orange-600 text-white px-2 py-1 rounded-full text-sm">PyTorch</span>
+        <span class="bg-red-600 text-white px-2 py-1 rounded-full text-sm">TensorFlow</span>
+        <span class="bg-yellow-600 text-black px-2 py-1 rounded-full text-sm">Hugging Face</span>
+      </div>
+      <div class="flex gap-2">
+        <a href="https://live-demo-link.com" target="_blank" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">Live Demo</a>
+        <a href="https://github.com/username/ai-playground" target="_blank" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition">View Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Add more cards here for Portfolio Website, Quick Tools, etc. -->
 
 </div>
+
 
 ## 🌟 What I'm Up To
 
