@@ -216,31 +216,40 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-sankey-beta
-    AURITRA,CURRENT FOCUS,25
-    AURITRA,LEARNING,25
-    AURITRA,BUILDING,25
-    AURITRA,GOALS,25
+flowchart LR
+    A[AURITRA] --> B[CURRENT FOCUS]
+    A --> C[LEARNING]
+    A --> D[BUILDING]
+    A --> E[GOALS]
     
-    CURRENT FOCUS,AI Applications,6
-    CURRENT FOCUS,Full Stack Development,6
-    CURRENT FOCUS,DevOps Automation,6
-    CURRENT FOCUS,Cloud Architecture,7
+    B --> B1[AI Applications]
+    B --> B2[Full Stack Development]
+    B --> B3[DevOps Automation]
+    B --> B4[Cloud Architecture]
     
-    LEARNING,Rust Programming,6
-    LEARNING,Machine Learning,6
-    LEARNING,System Design,6
-    LEARNING,Security Practices,7
+    C --> C1[Rust Programming]
+    C --> C2[Machine Learning]
+    C --> C3[System Design]
+    C --> C4[Security Practices]
     
-    BUILDING,Open Source Tools,6
-    BUILDING,SaaS Products,6
-    BUILDING,Developer Utilities,6
-    BUILDING,AI Integrations,7
+    D --> D1[Open Source Tools]
+    D --> D2[SaaS Products]
+    D --> D3[Developer Utilities]
+    D --> D4[AI Integrations]
     
-    GOALS,OSS Contributions,6
-    GOALS,Tech Startup Launch,6
-    GOALS,Mentor Developers,6
-    GOALS,Conference Speaking,7
+    E --> E1[OSS Contributions]
+    E --> E2[Tech Startup Launch]
+    E --> E3[Mentor Developers]
+    E --> E4[Conference Speaking]
+
+    classDef rootStyle fill:#64CCC5,stroke:#176B87,stroke-width:4px,color:#000,font-size:18px,font-weight:bold
+    classDef categoryStyle fill:#DAFFFB,stroke:#64CCC5,stroke-width:3px,color:#000,font-size:16px,font-weight:bold
+    classDef itemStyle fill:#B4E5E0,stroke:#176B87,stroke-width:2px,color:#000,font-size:14px
+    
+    class A rootStyle
+    class B,C,D,E categoryStyle
+    class B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4 itemStyle
+
 ```
 
 ## Contributions
