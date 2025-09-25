@@ -216,45 +216,39 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-flowchart TD
-    A[AURITRA<br/>🚀] --> B[CURRENT FOCUS<br/>🔥]
-    A --> C[LEARNING<br/>📚]
-    A --> D[BUILDING<br/>💡]
-    A --> E[GOALS<br/>🎯]
+flowchart LR
+    A[AURITRA] --> B[CURRENT FOCUS]
+    A --> C[LEARNING]
+    A --> D[BUILDING]
+    A --> E[GOALS]
     
     B --> B1[AI Applications]
-    B --> B2[Full Stack<br/>Development]
-    B --> B3[DevOps<br/>Automation]
-    B --> B4[Cloud<br/>Architecture]
+    B --> B2[Full Stack Development]
+    B --> B3[DevOps Automation]
+    B --> B4[Cloud Architecture]
     
-    C --> C1[Rust<br/>Programming]
-    C --> C2[Machine<br/>Learning]
-    C --> C3[System<br/>Design]
-    C --> C4[Security<br/>Practices]
+    C --> C1[Rust Programming]
+    C --> C2[Machine Learning]
+    C --> C3[System Design]
+    C --> C4[Security Practices]
     
-    D --> D1[Open Source<br/>Tools]
-    D --> D2[SaaS<br/>Products]
-    D --> D3[Developer<br/>Utilities]
-    D --> D4[AI<br/>Integrations]
+    D --> D1[Open Source Tools]
+    D --> D2[SaaS Products]
+    D --> D3[Developer Utilities]
+    D --> D4[AI Integrations]
     
-    E --> E1[OSS<br/>Contributions]
-    E --> E2[Tech<br/>Startup]
-    E --> E3[Mentor<br/>Developers]
-    E --> E4[Conference<br/>Speaking]
+    E --> E1[OSS Contributions]
+    E --> E2[Tech Startup Launch]
+    E --> E3[Mentor Developers]
+    E --> E4[Conference Speaking]
 
-    classDef rootStyle fill:#E0F2FE,stroke:#0369A1,stroke-width:3px,color:#000
-    classDef categoryStyle fill:#DBEAFE,stroke:#2563EB,stroke-width:2px,color:#000
-    classDef itemStyle1 fill:#FEF3C7,stroke:#D97706,stroke-width:1px,color:#000
-    classDef itemStyle2 fill:#D1FAE5,stroke:#059669,stroke-width:1px,color:#000
-    classDef itemStyle3 fill:#FCE7F3,stroke:#DB2777,stroke-width:1px,color:#000
-    classDef itemStyle4 fill:#F3E8FF,stroke:#9333EA,stroke-width:1px,color:#000
+    classDef rootStyle fill:#64CCC5,stroke:#176B87,stroke-width:4px,color:#000,font-size:18px,font-weight:bold
+    classDef categoryStyle fill:#DAFFFB,stroke:#64CCC5,stroke-width:3px,color:#000,font-size:16px,font-weight:bold
+    classDef itemStyle fill:#B4E5E0,stroke:#176B87,stroke-width:2px,color:#000,font-size:14px
     
     class A rootStyle
     class B,C,D,E categoryStyle
-    class B1,B2,B3,B4 itemStyle1
-    class C1,C2,C3,C4 itemStyle2
-    class D1,D2,D3,D4 itemStyle3
-    class E1,E2,E3,E4 itemStyle4
+    class B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4 itemStyle
 ```
 
 ## Contributions
