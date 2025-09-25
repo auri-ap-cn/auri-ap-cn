@@ -216,39 +216,28 @@ Learning:  C++
 ## 🌟 What I'm Up To
 
 ```mermaid
-graph TD
-    A["🚀 Auritra"] --> B["🔥 Current Focus"]
-    A --> C["🚀 Learning"]
-    A --> D["💡 Building"]
-    A --> E["🎯 Goals"]
-    
-    B --> B1["⚡ AI Applications"]
-    B --> B2["💻 Full Stack Dev"]
-    B --> B3["🛠️ DevOps Automation"]
-    B --> B4["☁️ Cloud Architecture"]
-    
-    C --> C1["🦀 Rust Programming"]
-    C --> C2["🤖 Machine Learning"]
-    C --> C3["📊 System Design"]
-    C --> C4["🔐 Security Practices"]
-    
-    D --> D1["🌟 Open Source Tools"]
-    D --> D2["💼 SaaS Products"]
-    D --> D3["🔧 Developer Utilities"]
-    D --> D4["🎯 AI Integrations"]
-    
-    E --> E1["🌐 Contribute to Major OSS"]
-    E --> E2["🚀 Launch Tech Startup"]
-    E --> E3["👥 Mentor Developers"]
-    E --> E4["🎤 Speaker at Conferences"]
-
-    classDef rootNode fill:#7c3aed,stroke:#58a6ff,stroke-width:3px,color:#ffffff
-    classDef categoryNode fill:#1e293b,stroke:#7c3aed,stroke-width:2px,color:#58a6ff
-    classDef itemNode fill:#0f172a,stroke:#64748b,stroke-width:1px,color:#e2e8f0
-    
-    class A rootNode
-    class B,C,D,E categoryNode
-    class B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4 itemNode
+mindmap
+  root)🚀 AURITRA(
+    (🔥 CURRENT FOCUS)
+      [⚡ AI Applications]
+      [💻 Full Stack Development]
+      [🛠️ DevOps Automation]
+      [☁️ Cloud Architecture]
+    (🚀 LEARNING)
+      [🦀 Rust Programming]
+      [🤖 Machine Learning]
+      [📊 System Design]
+      [🔐 Security Practices]
+    (💡 BUILDING)
+      [🌟 Open Source Tools]
+      [💼 SaaS Products]
+      [🔧 Developer Utilities]
+      [🎯 AI Integrations]
+    (🎯 GOALS)
+      [🌐 Contribute to Major OSS]
+      [🚀 Launch Tech Startup]
+      [👥 Mentor Developers]
+      [🎤 Speaker at Conferences]
 ```
 
 ## Contributions
