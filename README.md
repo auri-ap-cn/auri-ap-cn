@@ -152,14 +152,28 @@ Learning:  C++
 ## 🎯 Featured Projects
 
 <div align="center">
-<a href="https://github.com/auri-ap-cn/devops-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-
-<a href="https://github.com/auri-ap-cn/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/auri-ap-cn/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+        </a>
+        <br>
+        <sub><b>💼 Portfolio</b></sub>
+        <br>
+        <sub>Personal portfolio website showcasing projects, skills, and professional experience</sub>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/auri-ap-cn/DevOps-Toolkit">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=DevOps-Toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
+        </a>
+        <br>
+        <sub><b>🛠️ DevOps Toolkit</b></sub>
+        <br>
+        <sub>Comprehensive collection of DevOps tools and automation scripts for streamlined development workflows</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
