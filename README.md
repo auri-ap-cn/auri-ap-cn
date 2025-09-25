@@ -155,9 +155,6 @@ Learning:  C++
 <a href="https://github.com/auri-ap-cn/devops-toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
 </a>
-<a href="https://github.com/auri-ap-cn/ai-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=auri-ap-cn&repo=ai-playground&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
 </div>
 
 
