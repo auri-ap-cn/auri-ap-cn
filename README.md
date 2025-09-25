@@ -215,30 +215,67 @@ Learning:  C++
 
 ## 🌟 What I'm Up To
 
-```mermaid
-mindmap
-  root((🚀 Auritra))
-    🔥 Current Focus
-      ⚡ AI Applications
-      💻 Full Stack Development
-      🛠️ DevOps Automation
-      ☁️ Cloud Architecture
-    🚀 Learning
-      🦀 Rust Programming
-      🤖 Machine Learning
-      📊 System Design
-      🔐 Security Practices
-    💡 Building
-      🌟 Open Source Tools
-      💼 SaaS Products
-      🔧 Developer Utilities
-      🎯 AI Integrations
-    🎯 Goals
-      🌐 Contribute to Major OSS
-      🚀 Launch Tech Startup
-      👥 Mentor Developers
-      🎤 Speaker at Conferences
+<div align="center">
+
 ```
+                                    🚀 Auritra
+                                        │
+                    ┌───────────────────┼───────────────────┐
+                    │                   │                   │
+                🔥 Current Focus    🚀 Learning        💡 Building        🎯 Goals
+                    │                   │                   │               │
+            ┌───────┼───────┐   ┌───────┼───────┐   ┌───────┼───────┐   ┌───┼───┐
+            │       │       │   │       │       │   │       │       │   │   │   │
+        ⚡ AI   💻 Full  🛠️ DevOps │    🦀 Rust 🤖 ML  📊 System │ 🌟 OSS 💼 SaaS 🔧 Dev │🌐 OSS 🚀 Launch
+       Apps    Stack   Auto   │    Lang    &AI   Design │ Tools Products Utils │Contrib Startup
+                              │                         │                     │
+                       ☁️ Cloud Arch            🔐 Security              🎯 AI Integration │👥 Mentor 🎤 Speaker
+```
+
+### 🎯 Current Projects & Learning Path
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<h4>🔥 Current Focus</h4>
+<ul align="left">
+<li>⚡ AI-powered Applications</li>
+<li>💻 Full Stack Development</li>
+<li>🛠️ DevOps Automation</li>
+<li>☁️ Cloud Architecture</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>🚀 Learning</h4>
+<ul align="left">
+<li>🦀 Rust Programming</li>
+<li>🤖 Machine Learning & AI</li>
+<li>📊 System Design</li>
+<li>🔐 Security Practices</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>💡 Building</h4>
+<ul align="left">
+<li>🌟 Open Source Tools</li>
+<li>💼 SaaS Products</li>
+<li>🔧 Developer Utilities</li>
+<li>🎯 AI Integrations</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>🎯 Goals</h4>
+<ul align="left">
+<li>🌐 Contribute to Major OSS</li>
+<li>🚀 Launch Tech Startup</li>
+<li>👥 Mentor Developers</li>
+<li>🎤 Speaker at Conferences</li>
+</ul>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Contributions
 <div align="center">
