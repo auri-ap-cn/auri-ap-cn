@@ -166,7 +166,7 @@ Learning:  C++
       </div>
       <div class="flex gap-2">
         <a href="https://live-demo-link.com" target="_blank" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">Live Demo</a>
-        <a href="https://github.com/username/devops-toolkit" target="_blank" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition">View Code</a>
+        <a href="https://github.com/auri-ap-cn/DevOps-Toolkit" target="_blank" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition">View Code</a>
       </div>
     </div>
   </div>
